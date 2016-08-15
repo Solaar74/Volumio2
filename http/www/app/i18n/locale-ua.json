@@ -1,4 +1,4 @@
-﻿{
+{
   "UI_SETTINGS": {
     "THEME_SETTINGS": "Налаштування теми",
     "UPLOAD_BACKGROUND": "Завантажити нове тло",
@@ -24,8 +24,8 @@
     "ACTIVE":"Застосовано",
     "INACTIVE":"Незастосовано",
     "SHOW_SETTINGS":"Показати налаштування",
-    "TAB_BROWSE":"Бібліотека",
-    "TAB_PLAYBACK":"Програвання",
+    "TAB_BROWSE":"Переглянути",
+    "TAB_PLAYBACK":"Відтворюється",
     "TAB_QUEUE":"Черга",
     "ARTISTS":"Виконавці",
     "ALBUMS":"Альбоми",
@@ -60,7 +60,7 @@
     "ADD_TO_RADIO_FAVOURITES":"Додати радіо до обраного",
     "REMOVE_FROM_RADIO_FAVOURITES":"Видалити радіо з обраного",
     "ADD_WEBRADIO_TITLE":"Додати назву радіо",
-    "URL_DOC":"URL може бути як URL-потік, так й M3U або PLS віддалений файл",
+    "URL_DOC":"URL може бути URL-потоку, а також M3U або PLS віддалений файл",
     "DELETE_PLAYLIST":"Видалити список відтворення",
     "GO_TO_SHARE":"Перейти до загальнодоступних тек",
     "NEXT_TRACK":"Наступний",
@@ -79,7 +79,7 @@
     "UPDATE":"Оновлення",
     "DETAILS":"Подробиці",
     "DROP":"Оберіть плагін або перетягніть сюди.",
-    "INSTALL_PROGRESS":"Встановлення триває",
+    "INSTALL_PROGRESS":"Встановлення триває...",
     "INSTALLED_PLUGINS":"Встановлені плагіни",
     "SEARCH_PLUGINS":"Пошук плагінів",
     "UPLOAD_PLUGINS":"Завантажити плагін"
