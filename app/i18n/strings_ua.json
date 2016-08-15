@@ -1,6 +1,6 @@
-﻿{
+{
   "PLAYBACK_OPTIONS":{
-    "PLAYBACK_OPTIONS_TITLE":"Налаштування відтворення",
+    "PLAYBACK_OPTIONS_TITLE":"Опції плеєра",
     "AUDIO_OUTPUT":"Аудіо вихід",
     "OUTPUT_DEVICE_DOC":"Тип пристрою виведення",
     "OUTPUT_DEVICE":"Пристрій виведення",
@@ -74,11 +74,11 @@
     "SCAN_DB":"Сканування бази даних",
     "ILLEGAL_CHARACTER_/":"Видалення забороненого символу /",
     "FAVOURITES":"Обране",
-    "PLAYLISTS":"Список відтворення",
-    "MUSIC_LIBRARY":"Музична бібліотека"
+    "PLAYLISTS":"Списки відтворення",
+    "MUSIC_LIBRARY":"Музичні файли"
   },
   "APPEARANCE":{
-    "APPEARANCE":"Налаштування вигляду",
+    "APPEARANCE":"Налаштування зовнішнього вигляду",
     "UI_CONFIG_LANGUAGE":"Мова",
     "UI_CONFIG_SELECT_LANGUAGE":"Виберіть мову",
     "NEW_LANGUAGE_SET":"Нову мову обрано",
@@ -86,7 +86,7 @@
   },
   "MAIN_MENU":{
     "MY_MUSIC":"Моя музика",
-    "PLAYBACK_OPTIONS":"Налаштування відтворення",
+    "PLAYBACK_OPTIONS":"Опції плеєра",
     "APPEARANCE":"Зовнішній вигляд",
     "NETWORK":"Мережа",
     "SYSTEM":"Система",
